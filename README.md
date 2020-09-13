@@ -12,5 +12,5 @@ Data visualisation :bar_chart: is also my area of interest.*
     - R programming
     - Statistical modelling
 * :telephone_receiver: Reach me at:
-   - ![LinkedIn](https://in.images.search.yahoo.com/yhs/search?p=linkedinlogo&fr=yhs-shnl-001&hspart=shnl&hsimp=yhs-001&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FLinkedin.svg%2F1200px-Linkedin.svg.png#id=0&iurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc9%2FLinkedin.svg%2F1200px-Linkedin.svg.png&action=click) [LinkedIn Profile](https://www.linkedin.com/in/mansi-jaiswal-343859184/)
+   - [LinkedIn Profile](https://www.linkedin.com/in/mansi-jaiswal-343859184/)
    - (jaiswalmansi15@gmail.com)

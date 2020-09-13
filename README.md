@@ -7,10 +7,10 @@ Data visualisation :bar_chart: is also my area of interest.*
 * :books: Willingness to learn about Machine learning concepts.
 * :heart: Ask me about my subject-Statistics.Always interested in such conversations.
 * :point_down: Skills
-                1.Python programming
-                2.SPSS
-                3.R programming
-                4.Statistical modelling
+                -Python programming
+                -SPSS
+                -R programming
+                -Statistical modelling
 * Reach me at:
-   1. [LinkedIn Profile](https://www.linkedin.com/in/mansi-jaiswal-343859184/)
-   2.(jaiswalmansi15@gmail.com)
+   - [LinkedIn Profile](https://www.linkedin.com/in/mansi-jaiswal-343859184/)
+   - (jaiswalmansi15@gmail.com)

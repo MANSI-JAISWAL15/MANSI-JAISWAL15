@@ -1,16 +1,16 @@
-### Hi there 👋
+#Hello GitHub MANSI JAISWAL here :raising_hand:
 
-<!--
-**MANSI-JAISWAL15/MANSI-JAISWAL15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*A Statistics graduate :mortar_board: who has a keen interest in analysing data and drawing useful insights from it.I am a hardworking individual who is committed to perform to my utmost potential and deliver my best performance.A Data Science enthusiast who is looking for oppurtunities to enhance my skills and gain industry knowledge about the same.
+Data visualisation :bar_chart: is also my area of interest.*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* :office: Currently interning with MedTourEasy as a Data Analyst intern.
+* :books: Willingness to learn about Machine learning concepts.
+* :love: Ask me about my subject-Statistics.Always interested in such conversations.
+* :point_down: Skills
+  1.Python programming
+  2.SPSS
+  3.R programming
+  4.Statistical modelling
+* Reach me at:
+  1. [LinkedIn Profile](https://www.linkedin.com/in/mansi-jaiswal-343859184/)
+  2.(jaiswalmansi15@gmail.com)
